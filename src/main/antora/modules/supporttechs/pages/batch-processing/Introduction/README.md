@@ -28,7 +28,7 @@
     * once the chunk reaches a configurable size → results are stored 
     * checkpoints
       * := point to restart an interrupted chunk step 
-  * task-oriented steps             -- Check '/batch/taskOrientedStepBatchJob'  --
+  * task-oriented steps             -- Check '/batch/simple'  --
 
 # Parallel Processing
 * use cases                 -- Check TODO: project --
