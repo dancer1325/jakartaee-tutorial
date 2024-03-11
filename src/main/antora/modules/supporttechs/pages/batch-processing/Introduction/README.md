@@ -30,6 +30,13 @@
       * := point to restart an interrupted chunk step 
   * task-oriented steps             -- Check '/batch/simple'  --
 
+# Batch artifact
+* := part of a                           -- Check '/phonebilling'
+  * chunk-oriented step OR
+  * task-oriented step OR
+  * decision element OR
+  * another component
+
 # Parallel Processing
 * use cases                 -- Check TODO: project --
   * steps are independent
