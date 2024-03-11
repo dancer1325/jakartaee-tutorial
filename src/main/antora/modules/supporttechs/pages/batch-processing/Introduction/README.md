@@ -1,5 +1,7 @@
 # Batch processing
 * := run batch jobs on computers
+* generics are NOT supported           -- Check '/batch/simple' --
+  * → you need to cast
 
 # Batch jobs
 * := tasks / can be executed — without — user interaction
