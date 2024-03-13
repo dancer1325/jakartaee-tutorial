@@ -7,4 +7,4 @@
 ---
 
 # Notes
-* All the related examples are in 'javaee-tutorial examples' under 'TODO: Check' folder
+* All the related examples are in 'javaee-tutorial examples' OR 'jakartaee-tutorial-examples' under 'TODO: Check' folder

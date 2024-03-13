@@ -5,5 +5,5 @@
 ---
 
 # Notes
-* All the related examples are in 'javaee-tutorial examples' under '/batch' folder
+* All the related examples are in 'javaee-tutorial examples' OR 'jakartaee-tutorial-examples' under '/batch' folder
   * '/simple'
